@@ -1,0 +1,17 @@
+#All insturctions for downloading the neccesary resourcses are here!
+
+Python (download from python.org)
+Tkinter (If you installed python just do (import tkinter as tk.)Because Tkinter is pre installed)
+Tkinter.Scrolled Text (Needs Tkinter To Work. Also preinstalled with tkinter.)
+WolframAlpha(download in powershell(pip install wolframalpha))
+Wikipedia(download in powershell(pip install wikipedia))
+
+#You will need to import all of these using import to work. Like this
+
+import tkinter as tk
+from tkinter.scrolledtext import Scrolledtext
+import wikipedia
+import wolramalpha
+
+#You will also need An API Key for wolfram alpha. :
+Theres one bulit in but you could use your own one
